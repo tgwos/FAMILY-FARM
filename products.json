@@ -3,15 +3,15 @@
     "id": 1,
     "name": "🇪🇸MARADONA SELECTION🇪🇸",
     "category": "stock1",
-    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/bc94c5bd-fb8e-49a0-da9f-3d2616372e00/public",
+    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/8fc2a28c-b81d-4e99-9fe0-a7469cd0ec00/public",
     "media": [
       {
         "type": "image",
-        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/bc94c5bd-fb8e-49a0-da9f-3d2616372e00/public"
+        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/8fc2a28c-b81d-4e99-9fe0-a7469cd0ec00/public"
       },
       {
         "type": "video",
-        "src": "https://videodelivery.net//manifest/video.m3u8"
+        "src": "https://videodelivery.net/466b33df5e5b35947e892f0f7b8bbe2d/manifest/video.m3u8"
       }
     ],
     "prices": [
@@ -26,15 +26,15 @@
     "id": 2,
     "name": "🇪🇸🍋SPANISH WEED🍋🇪🇸",
     "category": "stock1",
-    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/e2057fbb-5f29-4677-78b1-849654af6100/public",
+    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/bfafafb2-8194-4585-bce1-bc894919b200/public",
     "media": [
       {
         "type": "image",
-        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/e2057fbb-5f29-4677-78b1-849654af6100/public"
+        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/bfafafb2-8194-4585-bce1-bc894919b200/public"
       },
       {
         "type": "video",
-        "src": "https://videodelivery.net/23edf4ee01e35250ad2aba9b28bb82ad/manifest/video.m3u8"
+        "src": "https://videodelivery.net/ea1365c27b603b95cfdf5d693004f48f/manifest/video.m3u8"
       }
     ],    
     "prices": [
@@ -47,11 +47,11 @@
     "id": 3,
     "name": "❄️TOP SQUAMA❄️",
     "category": "stock1",
-    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/d210c457-e1a2-4236-3209-0714e6d37a00/public",
+    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/00726585-f905-4443-86a1-dd249cd6b100/public",
     "media": [
       {
-        "type": "image",
-        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/d210c457-e1a2-4236-3209-0714e6d37a00/public"
+        "type": "video",
+        "src": "https://videodelivery.net/80897f0630ee296893f5d3dd83d6986f/manifest/video.m3u8"
       }
     ],
     "prices": [
