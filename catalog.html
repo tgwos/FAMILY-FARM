@@ -33,7 +33,7 @@
       position: fixed;
       inset: 0;
       z-index: -5;
-      background: url("logosfondo.jpg") center / cover no-repeat;
+      background: url("LOGOFF.jpg") center / cover no-repeat;
       transform: scale(1.08);
       filter: contrast(1.05) brightness(.78);
     }
@@ -504,7 +504,7 @@
     <header class="topbar">
       <button class="back-btn" id="backBtn" type="button" aria-label="Indietro">←</button>
       <div class="title-chip">
-        <img src="logopricipale.jpg" alt="Logo" />
+        <img src="LOGOFF.jpg" alt="Logo" />
       </div>
     </header>
 
@@ -596,7 +596,7 @@
         button.className = "product";
         button.type = "button";
         button.innerHTML = `
-          <img src="${item.previewImage || "logosfondo.jpg"}" alt="${escapeHtml(item.name || "Elemento")}" loading="lazy" />
+          <img src="${item.previewImage || "LOGOFF.jpg"}" alt="${escapeHtml(item.name || "Elemento")}" loading="lazy" />
           <div class="product-info">
             <div class="product-tag">CBD LIGHT</div>
             <div class="product-name">${escapeHtml(item.name || "Elemento")}</div>
@@ -670,7 +670,7 @@
       const media = currentProduct && currentProduct.media ? currentProduct.media : [];
       if (!media.length) {
         const img = document.createElement("img");
-        img.src = currentProduct.previewImage || "logosfondo.jpg";
+        img.src = currentProduct.previewImage || "LOGOFF.jpg";
         img.alt = currentProduct.name || "Anteprima";
         img.onload = function() {
           setMediaLayout(img.naturalWidth, img.naturalHeight);
