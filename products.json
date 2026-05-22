@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "FROZEN SIFT ORANGE GUSH",
+    "category": "stock1",
+    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/bc94c5bd-fb8e-49a0-da9f-3d2616372e00/public",
+    "media": [
+      {
+        "type": "image",
+        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/bc94c5bd-fb8e-49a0-da9f-3d2616372e00/public"
+      },
+      {
+        "type": "video",
+        "src": "https://videodelivery.net/429e64a12982a1415660b5f5f9c6bc78/manifest/video.m3u8"
+      }
+    ],
+    
+    "prices": [
+      { "quantity": 5, "price": 75 },
+      { "quantity": 10, "price": 130 },
+      { "quantity": 20, "price": 200 },
+      { "quantity": 25, "price": 230 },
+      { "quantity": 50, "price": 350 },
+      { "quantity": 100, "price": 600 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "CALI USA PURPLE🔮GELATO",
+    "category": "stock1",
+    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/e2057fbb-5f29-4677-78b1-849654af6100/public",
+    "media": [
+      {
+        "type": "image",
+        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/e2057fbb-5f29-4677-78b1-849654af6100/public"
+      },
+      {
+        "type": "video",
+        "src": "https://videodelivery.net/23edf4ee01e35250ad2aba9b28bb82ad/manifest/video.m3u8"
+      }
+    ],
+    
+    "prices": [
+      { "quantity": 5, "price": 60 },
+      { "quantity": 10, "price": 120 },
+      { "quantity": 20, "price": 200 },
+      { "quantity": 25, "price": 230 },
+      { "quantity": 50, "price": 320 },
+      { "quantity": 100, "price": 600 }
+    ]
+  },
+{
+    "id": 3,
+    "name": "Coca 97%",
+    "category": "stock1",
+    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/d210c457-e1a2-4236-3209-0714e6d37a00/public",
+    "media": [
+      {
+        "type": "image",
+        "src": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/d210c457-e1a2-4236-3209-0714e6d37a00/public"
+      }
+    ],
+   
+    "prices": [
+      { "quantity": 1, "price": 50 },
+      { "quantity": 5, "price": 200 },
+      { "quantity": 10, "price": 340 },
+      { "quantity": 20, "price": 600 },
+      { "quantity": 50, "price": 1250 },
+      { "quantity": 100, "price": 2300 },
+      { "quantity": 200, "price": 4450 },
+      { "quantity": 500, "price": 9500 }
+    ]
+  },
+  
+{
+    "id": 3,
+    "name": "DRY MFL🔝",
+    "category": "stock1",
+    "previewImage": "https://imagedelivery.net/NDmb7wdAt1NpzNsXB7Yxlw/70210f8e-5af3-43d8-90a8-03261d1df500/public",
+    "media": [
+      {
+        "type": "video",
+        "src": "https://videodelivery.net/072ddad3ab220d3b72b3b545ada7e9fc/manifest/video.m3u8"
+      }
+    ],
+   
+    "prices": [
+      { "quantity": 5, "price": 40  },
+      { "quantity": 10, "price": 70 },
+      { "quantity": 25, "price": 120 },
+      { "quantity": 50, "price": 200 },
+      { "quantity": 100, "price": 350 },
+      { "quantity": 200, "price": 670 },
+      { "quantity": 500, "price": 1400 },
+      { "quantity": 1000, "price": 2650 }
+    ]
+  }
+  
+]
